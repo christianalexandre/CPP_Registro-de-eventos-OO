@@ -28,26 +28,28 @@
 <ul>
   <li>Exclusão</li>
   <img src="https://github.com/christianalexandre/CPP_Registro-de-eventos-OO/blob/master/screenshots/excluir-1.png?raw=true">
-  <img src="https://github.com/christianalexandre/CPP_Registro-de-eventos-OO/blob/master/screenshots/excluir2-.png?raw=true">
+  <img src="https://github.com/christianalexandre/CPP_Registro-de-eventos-OO/blob/master/screenshots/excluir-2-.png?raw=true">
   <img src="https://github.com/christianalexandre/CPP_Registro-de-eventos-OO/blob/master/screenshots/excluir-3.png?raw=true">
   <img src="https://github.com/christianalexandre/CPP_Registro-de-eventos-OO/blob/master/screenshots/excluir-4.png?raw=true">
 </ul>
 
 <ul>
   <li>Alteração</li>
-  <img src="">
-  <img src="">
-  <img src="">
+  <img src="https://github.com/christianalexandre/CPP_Registro-de-eventos-OO/blob/master/screenshots/alterar-1.png?raw=true">
+  <img src="https://github.com/christianalexandre/CPP_Registro-de-eventos-OO/blob/master/screenshots/alterar-2.png?raw=true">
+  <img src="https://github.com/christianalexandre/CPP_Registro-de-eventos-OO/blob/master/screenshots/alterar-3.png?raw=true">
+  <img src="https://github.com/christianalexandre/CPP_Registro-de-eventos-OO/blob/master/screenshots/alterar-4.png?raw=true">
 </ul>
 
 <ul>
   <li>Consultar</li>
-  <img src="">
-  <img src="">
-  <img src="">
+  <img src="https://github.com/christianalexandre/CPP_Registro-de-eventos-OO/blob/master/screenshots/consultar-1.png?raw=true">
+  <img src="https://github.com/christianalexandre/CPP_Registro-de-eventos-OO/blob/master/screenshots/consultar-2.png?raw=true">
+  <img src="https://github.com/christianalexandre/CPP_Registro-de-eventos-OO/blob/master/screenshots/consultar-3.png?raw=true">
+  <img src="https://github.com/christianalexandre/CPP_Registro-de-eventos-OO/blob/master/screenshots/consultar-4.png?raw=true">
 </ul>
 
 <ul>
-  <li>Listagem lógica</li>
-  <img src="">  
+  <li>Listagem</li>
+  <img src="https://github.com/christianalexandre/CPP_Registro-de-eventos-OO/blob/master/screenshots/listar-1.png?raw=true">
 </ul>
