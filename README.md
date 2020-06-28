@@ -28,7 +28,7 @@
 <ul>
   <li>Exclusão</li>
   <img src="https://github.com/christianalexandre/CPP_Registro-de-eventos-OO/blob/master/screenshots/excluir-1.png?raw=true">
-  <img src="https://github.com/christianalexandre/CPP_Registro-de-eventos-OO/blob/master/screenshots/excluir-2-.png?raw=true">
+  <img src="https://github.com/christianalexandre/CPP_Registro-de-eventos-OO/blob/master/screenshots/excluir-2.png?raw=true">
   <img src="https://github.com/christianalexandre/CPP_Registro-de-eventos-OO/blob/master/screenshots/excluir-3.png?raw=true">
   <img src="https://github.com/christianalexandre/CPP_Registro-de-eventos-OO/blob/master/screenshots/excluir-4.png?raw=true">
 </ul>
