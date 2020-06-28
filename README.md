@@ -16,20 +16,21 @@
 ## Demonstração
 <ul>
   <li>Menu</li>
-  <img src="">
+  <img src="https://github.com/christianalexandre/CPP_Registro-de-eventos-OO/blob/master/screenshots/menu-principal.png?raw=true">
 </ul>
 
 <ul>
   <li>Inclusão</li>
-  <img src="">
-  <img src="">
+  <img src="https://github.com/christianalexandre/CPP_Registro-de-eventos-OO/blob/master/screenshots/incluir-1.png?raw=true">
+  <img src="https://github.com/christianalexandre/CPP_Registro-de-eventos-OO/blob/master/screenshots/incluir-2.png?raw=true">
 </ul>
 
 <ul>
   <li>Exclusão</li>
-  <img src="">
-  <img src="">
-  <img src="">
+  <img src="https://github.com/christianalexandre/CPP_Registro-de-eventos-OO/blob/master/screenshots/excluir-1.png?raw=true">
+  <img src="https://github.com/christianalexandre/CPP_Registro-de-eventos-OO/blob/master/screenshots/excluir2-.png?raw=true">
+  <img src="https://github.com/christianalexandre/CPP_Registro-de-eventos-OO/blob/master/screenshots/excluir-3.png?raw=true">
+  <img src="https://github.com/christianalexandre/CPP_Registro-de-eventos-OO/blob/master/screenshots/excluir-4.png?raw=true">
 </ul>
 
 <ul>
